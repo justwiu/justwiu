@@ -2,12 +2,16 @@
 <img width="800" height="300" alt="Image" src="https://github.com/user-attachments/assets/b7895500-e382-4507-b433-afff2d25b0e3" />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JUSTWIU&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=justwiu&show_icons=true&title_color=9B59B6&icon_color=9B59B6&text_color=C8A2C8&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justwiu&layout=compact&title_color=9B59B6&icon_color=9B59B6&text_color=C8A2C8&bg_color=0D1117)
+
+
 
 
 # *“Transmute ideas into code.”*
 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## Sobre mim
 
 Sou estudante da área de Tecnologia da Informação, interessado em desenvolvimento, redes, sistemas e infraestrutura. Gosto de aprender na prática, criar projetos e entender como as tecnologias funcionam.
@@ -18,7 +22,7 @@ Além da tecnologia, também tenho interesse por arte e criatividade, explorando
 
 
 ## 📫 Contato
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 <p align="center">
@@ -36,7 +40,6 @@ Além da tecnologia, também tenho interesse por arte e criatividade, explorando
   </a>
 
 </p>
----
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -44,7 +47,23 @@ Além da tecnologia, também tenho interesse por arte e criatividade, explorando
   <img src="https://skillicons.dev/icons?i=js,html,css,ae,ps,arch,figma,git,linux,nodejs,react" />
 </p>
 
+## 🎧 Currently Playing
+<details>
+<summary>🧪 Secret</summary>
+
+  ```text
+╭──────────────────────────────────────╮
+│              🎧 SPOTIFY              │
+│                                      │
+│  ▶  Now Playing                      │
+│                                      │
+│  Travis Scott — FE!N                 │
+│  ━━━━━━━━━━━━━━━━──────              │
+│                                      │
+╰──────────────────────────────────────╯
 
 
+```js
+nesse exato momento eu devo estar jogando algum jogo ou escutando alguma musica :)
 
 
