@@ -1,48 +1,50 @@
-# <div align="center">
+<p align="center">
+<img width="800" height="300" alt="Image" src="https://github.com/user-attachments/assets/b7895500-e382-4507-b433-afff2d25b0e3" />
+</p>
 
-<!-- Banner de cabeçalho -->
-<img src="<img width="600" height="300" alt="1000348100" src="https://github.com/user-attachments/assets/7ecc428f-a0cd-4bcf-a2d3-27e0ac0d2853"/>
-"alt="Banner Will" width="100%" />
-
-# Salve,Eu sou william 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=JUSTWIU&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark)
 
 
----
+# *“Transmute ideas into code.”*
 
-</div>
+## Sobre mim
 
+Sou estudante da área de Tecnologia da Informação, interessado em desenvolvimento, redes, sistemas e infraestrutura. Gosto de aprender na prática, criar projetos e entender como as tecnologias funcionam.
 
-## 👋 Sobre mim
-
-Sou estudante da área de **Tecnologia da Informação**, interessado em desenvolvimento, redes, sistemas e infraestrutura. Gosto de aprender na prática, criar projetos e entender como as tecnologias funcionam.
-
-Além da tecnologia, também tenho interesse por **arte e criatividade**, explorando edição de imagens, design e projetos visuais. Busco unir lógica e criatividade para desenvolver projetos que sejam funcionais, interessantes e tenham minha identidade.
+Além da tecnologia, também tenho interesse por arte e criatividade, explorando edição de imagens, design e projetos visuais. Busco unir lógica e criatividade para desenvolver projetos que sejam funcionais, interessantes e tenham minha identidade.
 
 💻 Tecnologia • 🎨 Arte • 🎥edição de vídeo e imagens • 🚀 Aprendizado contínuo
 
 
-<br clear="all"/>
+## 📫 Contato
 
+
+
+<p align="center">
+
+  <a href="mailto:williamcaua71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/william-cau%C3%A3-58784426b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/sorinhaa">
+    <img src="https://img.shields.io/badge/Instagram-@sorinhaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</p>
 ---
 
-## 🤝 Redes
+## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,ae,ps,arch,figma,git,linux,nodejs,react" />
+</p>
 
-<a href="https://github.com/justwiu">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/william-cau%C3%A3-58784426b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailtowilliamcaua71@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
-</div>
-
----
 
 
 
