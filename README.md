@@ -63,7 +63,7 @@ Além da tecnologia, também tenho interesse por arte e criatividade, explorando
 ╰──────────────────────────────────────╯
 
 
-```js
+
 nesse exato momento eu devo estar jogando algum jogo ou escutando alguma musica :)
 
 
