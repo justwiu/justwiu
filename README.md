@@ -47,7 +47,6 @@ Além da tecnologia, também tenho interesse por arte e criatividade, explorando
   <img src="https://skillicons.dev/icons?i=js,html,css,ae,ps,arch,figma,git,linux,nodejs,react" />
 </p>
 
-## 🎧 Currently Playing
 <details>
 <summary>🧪 Secret</summary>
 
