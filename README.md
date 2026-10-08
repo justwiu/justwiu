@@ -12,16 +12,16 @@
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## Sobre mim
+## About me
 
-Sou estudante da área de Tecnologia da Informação, interessado em desenvolvimento, redes, sistemas e infraestrutura. Gosto de aprender na prática, criar projetos e entender como as tecnologias funcionam.
+I am a student in the field of Information Technology, interested in development, networks, systems and infrastructure. I like to learn by doing, create projects and understand how technologies work.
 
-Além da tecnologia, também tenho interesse por arte e criatividade, explorando edição de imagens, design e projetos visuais. Busco unir lógica e criatividade para desenvolver projetos que sejam funcionais, interessantes e tenham minha identidade.
+In addition to technology, I also have an interest in art and creativity, exploring image editing, design, and visual projects. I seek to combine logic and creativity to develop projects that are functional, interesting and have my identity.
 
-💻 Tecnologia • 🎨 Arte • 🎥edição de vídeo e imagens • 🚀 Aprendizado contínuo
+💻 Technology • 🎨 Art • 🎥Video and image editing • 🚀 Continuous learning
 
 
-## 📫 Contato
+## 📫 Contacts 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
@@ -41,28 +41,21 @@ Além da tecnologia, também tenho interesse por arte e criatividade, explorando
 
 </p>
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Technologies and tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,ae,ps,arch,figma,git,linux,nodejs,react" />
 </p>
 
-<details>
-<summary>🧪 Secret</summary>
 
-  ```text
-╭──────────────────────────────────────╮
-│              🎧 SPOTIFY              │
-│                                      │
-│  ▶  Now Playing                      │
-│                                      │
-│  Travis Scott — FE!N                 │
-│  ━━━━━━━━━━━━━━━━──────              │
-│                                      │
-╰──────────────────────────────────────╯
+
+  <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+with+code+%E2%9A%A1;Networks+%7C+Infrastructure+%7C+Development;Code+%2B+Creativity+%3D+My+Style" />
+
+</div>
 
 
 
-nesse exato momento eu devo estar jogando algum jogo ou escutando alguma musica :)
 
 
